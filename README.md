@@ -7,3 +7,4 @@ Front-end-koden til nettstedet er 책pen kildekode, velkommen til 책 hjelpe med �
 * [front-end kode](https://github.com/xxai-art/web)
 * [Spr책kpakker for nettstedet som helhet](https://github.com/xxai-art/web/tree/main/i18n)
 * [Spr책kpakker for p책loggingsmoduler](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Nettstedets flerspr책klige dokumentasjon](https://github.com/xxai-doc)

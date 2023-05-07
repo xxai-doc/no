@@ -2,9 +2,9 @@
 
 * [Nettstedets flerspråklige dokumentasjon](https://github.com/xxai-doc)
 
-Front-end-koden til nettstedet er åpen kildekode, velkommen til å hjelpe med å optimalisere oversettelsen
+Frontend-koden til nettstedet er åpen kildekode, velkommen til å hjelpe med å optimalisere oversettelsen
 
-* [front-end kode](https://github.com/xxai-art/web)
+* [Frontend-kode](https://github.com/xxai-art/web)
 * [Språkpakker for nettstedet som helhet](https://github.com/xxai-art/web/tree/main/i18n)
 * [Språkpakker for påloggingsmoduler](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Nettstedets flerspråklige dokumentasjon](https://github.com/xxai-doc)
